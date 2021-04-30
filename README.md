@@ -1,5 +1,5 @@
 # api-example-exercise
-Simple API example for practicing each REST verb
+Simple API example for teaching each REST verb
 
 ## Initial resources
 
